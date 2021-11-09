@@ -171,7 +171,15 @@
 }
 
 @media (min-width: 1400px) {
+  .home-container {
+    height: 580px;
+  }
+
   .home-image-container svg {
     width: 480px;
+  }
+
+  .home-footer-card {
+    margin-bottom: 102px;
   }
 }
