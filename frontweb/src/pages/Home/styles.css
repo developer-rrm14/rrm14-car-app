@@ -145,6 +145,10 @@
 }
 
 @media (min-width: 1200px) {
+  .home-container {
+    height: calc(100vh - 60px);
+  }
+
   .home-card {
     flex-direction: row;
     justify-content: space-around;
